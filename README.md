@@ -1,16 +1,24 @@
-# sethassignment
+ Flutter Authentication Screens
 
-A new Flutter project by seth
+This Flutter project contains a set of authentication screens:
 
-## Getting Started
+* **Sign In** – Login with email and password.
+* **Sign Up** – Register a new account.
+* **Forgot Password** – Recover password via email.
+* **OTP Verification** – Enter OTP for account verification.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* **Device Preview**: Easily test responsive layouts across multiple devices.
+* **Image Assets**: Includes logos and UI illustrations for enhanced UI.
+* **Reusable Input Fields**: Simplifies form creation.
+* **Material Design**: Built with Flutter’s standard `Material` widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the project.
+2. Ensure `device_preview` is added in `pubspec.yaml`.
+3. Run the app on any device or use Device Preview for testing.
+4. Navigate between authentication screens via buttons/links.
+
+Quick and easy to integrate into any Flutter project requiring user authentication.
